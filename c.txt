@@ -1,7 +1,4 @@
-<<<<<<< HEAD
+We love Pizza
 How you doing touch
 Joey does not share food
 London
-=======
-We love Pizza
->>>>>>> 622334737b9148ae92a46c6f7c94cc7065e786d5
